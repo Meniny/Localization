@@ -169,6 +169,11 @@ open class Localization: Bundle {
     
     private static let kLocalizationLanguageSelectionKey = "kLocalizationLanguageSelectionKey"
     
+    /// System languages
+    open static var systemPreferredLanguages: [String] {
+        return Locale.preferredLanguages
+    }
+    
     /// Selecc language
     open static var preferredLanguage: String {
         get{

@@ -1,0 +1,1293 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 13,
+      "symbol": "Localization",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 13,
+      "symbol": "Localization",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 13,
+      "symbol": "Localization",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 13,
+      "symbol": "Localization",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 15,
+      "symbol": "Localization.Language",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 15,
+      "symbol": "Localization.Language",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 15,
+      "symbol": "Localization.Language",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 15,
+      "symbol": "Localization.Language",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 16,
+      "symbol": "Localization.Language.arabic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 16,
+      "symbol": "Localization.Language.arabic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 16,
+      "symbol": "Localization.Language.arabic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 16,
+      "symbol": "Localization.Language.arabic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 17,
+      "symbol": "Localization.Language.german",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 17,
+      "symbol": "Localization.Language.german",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 17,
+      "symbol": "Localization.Language.german",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 17,
+      "symbol": "Localization.Language.german",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 18,
+      "symbol": "Localization.Language.greek",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 18,
+      "symbol": "Localization.Language.greek",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 18,
+      "symbol": "Localization.Language.greek",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 18,
+      "symbol": "Localization.Language.greek",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 19,
+      "symbol": "Localization.Language.english",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 19,
+      "symbol": "Localization.Language.english",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 19,
+      "symbol": "Localization.Language.english",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 19,
+      "symbol": "Localization.Language.english",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 20,
+      "symbol": "Localization.Language.spanish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 20,
+      "symbol": "Localization.Language.spanish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 20,
+      "symbol": "Localization.Language.spanish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 20,
+      "symbol": "Localization.Language.spanish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 21,
+      "symbol": "Localization.Language.spanishLatinAmeraica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 21,
+      "symbol": "Localization.Language.spanishLatinAmeraica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 21,
+      "symbol": "Localization.Language.spanishLatinAmeraica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 21,
+      "symbol": "Localization.Language.spanishLatinAmeraica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 22,
+      "symbol": "Localization.Language.spanishMexico",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 22,
+      "symbol": "Localization.Language.spanishMexico",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 22,
+      "symbol": "Localization.Language.spanishMexico",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 22,
+      "symbol": "Localization.Language.spanishMexico",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 23,
+      "symbol": "Localization.Language.finnish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 23,
+      "symbol": "Localization.Language.finnish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 23,
+      "symbol": "Localization.Language.finnish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 23,
+      "symbol": "Localization.Language.finnish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 24,
+      "symbol": "Localization.Language.french",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 24,
+      "symbol": "Localization.Language.french",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 24,
+      "symbol": "Localization.Language.french",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 24,
+      "symbol": "Localization.Language.french",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 25,
+      "symbol": "Localization.Language.italian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 25,
+      "symbol": "Localization.Language.italian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 25,
+      "symbol": "Localization.Language.italian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 25,
+      "symbol": "Localization.Language.italian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 26,
+      "symbol": "Localization.Language.japanese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 26,
+      "symbol": "Localization.Language.japanese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 26,
+      "symbol": "Localization.Language.japanese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 26,
+      "symbol": "Localization.Language.japanese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 27,
+      "symbol": "Localization.Language.korean",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 27,
+      "symbol": "Localization.Language.korean",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 27,
+      "symbol": "Localization.Language.korean",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 27,
+      "symbol": "Localization.Language.korean",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 28,
+      "symbol": "Localization.Language.dutch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 28,
+      "symbol": "Localization.Language.dutch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 28,
+      "symbol": "Localization.Language.dutch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 28,
+      "symbol": "Localization.Language.dutch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 29,
+      "symbol": "Localization.Language.polish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 29,
+      "symbol": "Localization.Language.polish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 29,
+      "symbol": "Localization.Language.polish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 29,
+      "symbol": "Localization.Language.polish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 30,
+      "symbol": "Localization.Language.russian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 30,
+      "symbol": "Localization.Language.russian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 30,
+      "symbol": "Localization.Language.russian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 30,
+      "symbol": "Localization.Language.russian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 31,
+      "symbol": "Localization.Language.turkish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 31,
+      "symbol": "Localization.Language.turkish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 31,
+      "symbol": "Localization.Language.turkish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 31,
+      "symbol": "Localization.Language.turkish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 32,
+      "symbol": "Localization.Language.ukrainia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 32,
+      "symbol": "Localization.Language.ukrainia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 32,
+      "symbol": "Localization.Language.ukrainia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 32,
+      "symbol": "Localization.Language.ukrainia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 33,
+      "symbol": "Localization.Language.portugueseBrazil",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 33,
+      "symbol": "Localization.Language.portugueseBrazil",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 33,
+      "symbol": "Localization.Language.portugueseBrazil",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 33,
+      "symbol": "Localization.Language.portugueseBrazil",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 34,
+      "symbol": "Localization.Language.portuguesePortugal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 34,
+      "symbol": "Localization.Language.portuguesePortugal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 34,
+      "symbol": "Localization.Language.portuguesePortugal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 34,
+      "symbol": "Localization.Language.portuguesePortugal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 35,
+      "symbol": "Localization.Language.danish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 35,
+      "symbol": "Localization.Language.danish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 35,
+      "symbol": "Localization.Language.danish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 35,
+      "symbol": "Localization.Language.danish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 36,
+      "symbol": "Localization.Language.norwegianBokmål",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 36,
+      "symbol": "Localization.Language.norwegianBokmål",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 36,
+      "symbol": "Localization.Language.norwegianBokmål",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 36,
+      "symbol": "Localization.Language.norwegianBokmål",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 37,
+      "symbol": "Localization.Language.swedish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 37,
+      "symbol": "Localization.Language.swedish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 37,
+      "symbol": "Localization.Language.swedish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 37,
+      "symbol": "Localization.Language.swedish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 38,
+      "symbol": "Localization.Language.thai",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 38,
+      "symbol": "Localization.Language.thai",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 38,
+      "symbol": "Localization.Language.thai",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 38,
+      "symbol": "Localization.Language.thai",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 39,
+      "symbol": "Localization.Language.czech",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 39,
+      "symbol": "Localization.Language.czech",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 39,
+      "symbol": "Localization.Language.czech",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 39,
+      "symbol": "Localization.Language.czech",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 40,
+      "symbol": "Localization.Language.hungarian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 40,
+      "symbol": "Localization.Language.hungarian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 40,
+      "symbol": "Localization.Language.hungarian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 40,
+      "symbol": "Localization.Language.hungarian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 41,
+      "symbol": "Localization.Language.catalan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 41,
+      "symbol": "Localization.Language.catalan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 41,
+      "symbol": "Localization.Language.catalan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 41,
+      "symbol": "Localization.Language.catalan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 42,
+      "symbol": "Localization.Language.croatian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 42,
+      "symbol": "Localization.Language.croatian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 42,
+      "symbol": "Localization.Language.croatian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 42,
+      "symbol": "Localization.Language.croatian",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 43,
+      "symbol": "Localization.Language.hebrew",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 43,
+      "symbol": "Localization.Language.hebrew",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 43,
+      "symbol": "Localization.Language.hebrew",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 43,
+      "symbol": "Localization.Language.hebrew",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 44,
+      "symbol": "Localization.Language.slovak",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 44,
+      "symbol": "Localization.Language.slovak",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 44,
+      "symbol": "Localization.Language.slovak",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 44,
+      "symbol": "Localization.Language.slovak",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 45,
+      "symbol": "Localization.Language.indonesia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 45,
+      "symbol": "Localization.Language.indonesia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 45,
+      "symbol": "Localization.Language.indonesia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 45,
+      "symbol": "Localization.Language.indonesia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 46,
+      "symbol": "Localization.Language.malay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 46,
+      "symbol": "Localization.Language.malay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 46,
+      "symbol": "Localization.Language.malay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 46,
+      "symbol": "Localization.Language.malay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 47,
+      "symbol": "Localization.Language.vietnamese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 47,
+      "symbol": "Localization.Language.vietnamese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 47,
+      "symbol": "Localization.Language.vietnamese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 47,
+      "symbol": "Localization.Language.vietnamese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 48,
+      "symbol": "Localization.Language.simplifiedChinese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 48,
+      "symbol": "Localization.Language.simplifiedChinese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 48,
+      "symbol": "Localization.Language.simplifiedChinese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 48,
+      "symbol": "Localization.Language.simplifiedChinese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 49,
+      "symbol": "Localization.Language.traditionalChinese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 49,
+      "symbol": "Localization.Language.traditionalChinese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 49,
+      "symbol": "Localization.Language.traditionalChinese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 49,
+      "symbol": "Localization.Language.traditionalChinese",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 51,
+      "symbol": "Localization.Language.init(code:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 51,
+      "symbol": "Localization.Language.init(code:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 51,
+      "symbol": "Localization.Language.init(code:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 51,
+      "symbol": "Localization.Language.init(code:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 125,
+      "symbol": "Localization.Language.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 125,
+      "symbol": "Localization.Language.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 125,
+      "symbol": "Localization.Language.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 125,
+      "symbol": "Localization.Language.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 164,
+      "symbol": "Localization.Language.code",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 164,
+      "symbol": "Localization.Language.code",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 164,
+      "symbol": "Localization.Language.code",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 164,
+      "symbol": "Localization.Language.code",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 192,
+      "symbol": "Localization.localizedString(forKey:value:table:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 192,
+      "symbol": "Localization.localizedString(forKey:value:table:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 192,
+      "symbol": "Localization.localizedString(forKey:value:table:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 192,
+      "symbol": "Localization.localizedString(forKey:value:table:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 200,
+      "symbol": "Localization.bundleForLanguage",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 200,
+      "symbol": "Localization.bundleForLanguage",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 200,
+      "symbol": "Localization.bundleForLanguage",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 200,
+      "symbol": "Localization.bundleForLanguage",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 208,
+      "symbol": "Localization.startObserve(with:selector:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 208,
+      "symbol": "Localization.startObserve(with:selector:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 208,
+      "symbol": "Localization.startObserve(with:selector:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 208,
+      "symbol": "Localization.startObserve(with:selector:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 215,
+      "symbol": "Localization.stopObserve(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 215,
+      "symbol": "Localization.stopObserve(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 215,
+      "symbol": "Localization.stopObserve(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 215,
+      "symbol": "Localization.stopObserve(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 228,
+      "symbol": "NSNotification.LocalizationLanguageDidChange",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 228,
+      "symbol": "NSNotification.LocalizationLanguageDidChange",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 228,
+      "symbol": "NSNotification.LocalizationLanguageDidChange",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 228,
+      "symbol": "NSNotification.LocalizationLanguageDidChange",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 233,
+      "symbol": "LocalizationLanguageDidChangeNotification",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 233,
+      "symbol": "LocalizationLanguageDidChangeNotification",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 233,
+      "symbol": "LocalizationLanguageDidChangeNotification",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 233,
+      "symbol": "LocalizationLanguageDidChangeNotification",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 240,
+      "symbol": "String.localizedString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 240,
+      "symbol": "String.localizedString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 240,
+      "symbol": "String.localizedString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Meniny/Projects/Github/Localization/Localization/Localization.swift",
+      "line": 240,
+      "symbol": "String.localizedString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/Meniny/Projects/Github/Localization"
+}
