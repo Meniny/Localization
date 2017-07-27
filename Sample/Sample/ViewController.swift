@@ -79,7 +79,7 @@ extension ViewController: UIPickerViewDelegate, UIPickerViewDataSource {
     
 }
 
-extension ViewController: LocalizationProtocol {
+extension ViewController {
     
     func localizationDidChangeWithPreferredLanguage() {
         updateAppearance()

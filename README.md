@@ -52,7 +52,7 @@ import Localization
 
 class SomeSettingsClass {
   func changeLanguage() {
-      Localization.preferredLanguage = LocalizableLanguage.french.rawValue // == "fr"
+      Localization.preferredLanguage = LocalizableLanguage.french.code // == "fr"
   }
 }
 ```
@@ -60,10 +60,19 @@ class SomeSettingsClass {
 ```swift
 import Localization
 
-class SomeViewController: UIViewController, LocalizationProtocol {
+class SomeViewController: UIViewController {
   var someLabel: UILabel = UILabel()
 
-  // ....
+  override func viewDidLoad() {
+    super.viewDidLoad()
+    // ...
+
+    Localization.startObserve(with: self, selector: #selector(localizationDidChangeWithPreferredLanguage))
+    }
+
+  deinit {
+    Localization.stopObserve(with: self)
+  }
 
   func localizationDidChangeWithPreferredLanguage() {
     someLabel.text = "SomeLocalizationKey".localized()

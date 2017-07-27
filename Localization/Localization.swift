@@ -245,7 +245,3 @@ extension String {
         return NSLocalizedString(self, tableName: nil, bundle: bundle, comment: "")
     }
 }
-
-public protocol LocalizationProtocol {
-    func localizationDidChangeWithPreferredLanguage()
-}
