@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Sample
+
+  Created by Meniny on 2017-07-27.
+  Copyright © 2017年 Meniny. All rights reserved.
+*/
+"hello" = "안녕하세요";
+"bye" = "안녕히 가세요";

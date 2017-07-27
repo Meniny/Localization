@@ -1,0 +1,16 @@
+PODS:
+  - Localization (1.0.0)
+
+DEPENDENCIES:
+  - Localization (from `../`)
+
+EXTERNAL SOURCES:
+  Localization:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Localization: 411649550515dc73dffb66f43afb7c06e57b37cb
+
+PODFILE CHECKSUM: 9b6228219a918a1938644fefda42fa6cbfd2fd49
+
+COCOAPODS: 1.2.1
