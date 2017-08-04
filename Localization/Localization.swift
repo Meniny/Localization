@@ -243,7 +243,7 @@ extension String {
     
     /// used to localize string from code
     public func localized(in language: String? = nil) -> String {
-        guard let bundle = Localization.bundleForLanguage(nil) else {
+        guard let bundle = Localization.bundleForLanguage(language) else {
             return NSLocalizedString(self, comment: "")
         }
         
